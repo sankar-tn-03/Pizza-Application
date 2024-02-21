@@ -1,0 +1,28 @@
+#content-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#login-body{
+    width: fit-content;
+    border: 5px solid rgb(255, 175, 69);
+    background-color: rgba(255, 229, 194, 0.845);
+    padding: 20px;
+}
+
+
+.action{
+    border-radius: 8px;
+    background-color: rgb(255, 175, 69);
+}
+
+.action:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+
+.text-box{
+    border-color: rgb(255, 175, 69);
+    border-style: solid;
+}

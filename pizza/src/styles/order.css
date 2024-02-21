@@ -1,0 +1,8 @@
+#order-list{
+    background-color: rgba(255, 229, 194, 0.845);
+    border-color: rgb(255, 175, 69);
+    border-style: solid;
+}
+#order-body{
+    margin-left: 10px;
+}

@@ -1,0 +1,26 @@
+#menu-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: rgb(255, 255, 255);
+    gap: 0px;
+}
+
+#menu{
+    background-color: rgba(255, 229, 194, 0.845);
+    border-color: rgb(255, 175, 69);
+    border-width: 5px;
+    border-style:double;
+    padding: 10px;
+    margin: 10px;
+}
+
+#add-cart{
+    background-color: rgb(255, 175, 69);
+    border-radius: 8px;
+}
+
+#add-cart:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+    color: white;
+}
